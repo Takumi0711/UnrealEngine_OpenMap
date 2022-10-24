@@ -1,0 +1,1032 @@
+﻿Log file open, 10/24/22 21:32:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=19228)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyLandScape
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\aotak\OneDrive\デスクトップ\UnrealEngine_OpenMap\MyLandScape\MyLandScape.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1098] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600X 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2b3fdcda485bc216d8d795bf31ce5957"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.218919
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-835E336542D7D63017ACA3B389DA84FF
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1098] (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.24-12.32.58:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.24-12.32.58:246][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.24-12.32.58:246][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.24-12.32.58:246][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.24-12.32.58:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.24-12.32.58:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.24-12.32.58:247][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.24-12.32.58:248][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.24-12.32.58:260][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.24-12.32.58:260][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.24-12.32.58:355][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.24-12.32.58:355][  0]LogD3D12RHI: Adapter has 8043MB of dedicated video memory, 0MB of dedicated system memory, and 8157MB of shared system memory, 2 output[s]
+[2022.10.24-12.32.58:363][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.24-12.32.58:363][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8157MB of shared system memory, 0 output[s]
+[2022.10.24-12.32.58:363][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.24-12.32.58:363][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.24-12.32.58:363][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.24-12.32.58:363][  0]LogHAL: Display: Platform has ~ 16 GB [17106636800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.24-12.32.58:363][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.24-12.32.58:364][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.24-12.32.58:364][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.24-12.32.58:364][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.24-12.32.58:364][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.24-12.32.58:364][  0]LogInit: Computer: DESKTOP-5222D8P
+[2022.10.24-12.32.58:364][  0]LogInit: User: aotak
+[2022.10.24-12.32.58:364][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.24-12.32.58:364][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.24-12.32.58:364][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.24-12.32.58:364][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.24-12.32.58:364][  0]LogMemory: Process Physical Memory: 271.89 MB used, 281.24 MB peak
+[2022.10.24-12.32.58:364][  0]LogMemory: Process Virtual Memory: 226.92 MB used, 226.92 MB peak
+[2022.10.24-12.32.58:364][  0]LogMemory: Physical Memory: 8646.76 MB used,  7667.40 MB free, 16314.16 MB total
+[2022.10.24-12.32.58:364][  0]LogMemory: Virtual Memory: 15817.83 MB used,  13296.33 MB free, 29114.16 MB total
+[2022.10.24-12.32.58:364][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.24-12.32.58:369][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.24-12.32.58:382][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.24-12.32.58:383][  0]LogInit: Using OS detected language (ja-JP).
+[2022.10.24-12.32.58:383][  0]LogInit: Using OS detected locale (ja-JP).
+[2022.10.24-12.32.58:385][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so 'ja' will be used for the language.
+[2022.10.24-12.32.58:444][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.24-12.32.58:457][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.24-12.32.58:457][  0]LogWindowsTextInputMethodSystem:   - 日本語 (日本) - Microsoft IME (TSF IME).
+[2022.10.24-12.32.58:457][  0]LogWindowsTextInputMethodSystem:   - 日本語 (日本) - タッチ入力修正機能 (TSF IME).
+[2022.10.24-12.32.58:457][  0]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2022.10.24-12.32.58:469][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.24-12.32.58:469][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.24-12.32.58:604][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.24-12.32.58:607][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.24-12.32.58:607][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.24-12.32.58:670][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.24-12.32.58:720][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.24-12.32.58:728][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.24-12.32.58:744][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.24-12.32.58:756][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.24-12.32.58:756][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.24-12.32.58:775][  0]LogD3D12RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.24-12.32.58:775][  0]LogWindows: Attached monitors:
+[2022.10.24-12.32.58:776][  0]LogWindows:     resolution: 3840x2160, work area: (3840, -550) -> (7680, 1538), device: '\\.\DISPLAY1'
+[2022.10.24-12.32.58:776][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2064), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.10.24-12.32.58:776][  0]LogWindows: Found 2 attached monitors.
+[2022.10.24-12.32.58:776][  0]LogWindows: EnumDisplayDevices:
+[2022.10.24-12.32.58:776][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.10.24-12.32.58:776][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.10.24-12.32.58:776][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.24-12.32.58:776][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.24-12.32.58:776][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.24-12.32.58:776][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.10.24-12.32.58:776][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.10.24-12.32.58:776][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.10.24-12.32.58:776][  0]LogRHI: Texture pool is 4583 MB (70% of 6547 MB)
+[2022.10.24-12.32.58:776][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.24-12.32.58:776][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.24-12.32.58:785][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.24-12.32.58:791][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/MyLandScape.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/MyLandScape.uproject"  -platform=all'
+[2022.10.24-12.32.58:791][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/MyLandScape.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/MyLandScape.uproject"  -platform=all" ]
+[2022.10.24-12.32.58:812][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.24-12.32.58:819][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.24-12.32.58:819][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.24-12.32.58:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.24-12.32.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.24-12.32.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.24-12.32.58:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.24-12.32.58:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.24-12.32.58:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.24-12.32.58:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.24-12.32.58:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.24-12.32.58:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.24-12.32.58:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.24-12.32.58:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.24-12.32.58:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.24-12.32.58:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.24-12.32.58:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.24-12.32.58:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.24-12.32.58:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.24-12.32.58:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.24-12.32.58:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.24-12.32.58:863][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.24-12.32.58:869][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.24-12.32.58:872][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.24-12.32.58:872][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.24-12.32.58:872][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.24-12.32.58:872][  0]LogTargetPlatformManager:   PCM
+[2022.10.24-12.32.58:874][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.24-12.32.58:874][  0]LogTargetPlatformManager:   BINKA
+[2022.10.24-12.32.58:874][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.24-12.32.58:874][  0]LogTargetPlatformManager:   OGG
+[2022.10.24-12.32.58:874][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.24-12.32.58:874][  0]LogTargetPlatformManager:   OPUS
+[2022.10.24-12.32.58:910][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.24-12.32.58:910][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.24-12.32.58:915][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.24-12.32.58:918][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.24-12.32.58:918][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.24-12.32.58:918][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.24-12.32.58:918][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.24-12.32.58:918][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.24-12.32.58:918][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.24-12.32.58:918][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.24-12.32.58:918][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.24-12.32.58:918][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.24-12.32.58:918][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.24-12.32.58:919][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.24-12.32.58:919][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.24-12.32.58:920][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.24-12.32.58:920][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.24-12.32.58:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.24-12.32.58:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.24-12.32.58:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.24-12.32.58:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.24-12.32.58:938][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.24-12.32.58:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.24-12.32.58:938][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.24-12.32.58:945][  0]LogDerivedDataCache: Speed tests for C:/Users/aotak/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.24-12.32.58:945][  0]LogDerivedDataCache: Display: Performance to C:/Users/aotak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=764.99MBs, RandomWriteSpeed=194.34MBs. Assigned SpeedClass 'Local'
+[2022.10.24-12.32.58:946][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aotak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.24-12.32.58:946][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.24-12.32.58:946][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.24-12.32.58:951][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.24-12.32.58:951][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.24-12.32.58:951][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Intermediate/Shaders/WorkingDirectory/18996/).
+[2022.10.24-12.32.58:951][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aotak/AppData/Local/Temp/UnrealShaderWorkingDir/97A5EC17468E4F8807242A9A6603281E/'.
+[2022.10.24-12.32.58:951][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.24-12.32.58:951][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.10.24-12.33.00:004][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.24-12.33.00:005][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.24-12.33.00:034][  0]LogAssetRegistry: FAssetRegistry took 0.0090 seconds to start up
+[2022.10.24-12.33.00:039][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.24-12.33.00:233][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.24-12.33.00:234][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.24-12.33.00:444][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.24-12.33.00:444][  0]LogDeviceProfileManager: Active device profile: [000009D6DC8CAF00][000009D6D36D5000 50] WindowsEditor
+[2022.10.24-12.33.00:444][  0]LogDeviceProfileManager: Profiles: [000009D6DC8CA9C0][000009D6D36DA000 50] Windows, [000009D6DC8CAF00][000009D6D36D5000 50] WindowsEditor, [000009D6DC8C6C80][000009D6D36D2800 50] WindowsServer, [000009D6DC8CA640][000009D6D354A000 50] WindowsClient, [000009D6DC8C6740][000009D6D36D7800 50] IOS, [000009D6DC8CA480][000009D6DCCE0000 50] iPadAir2, [000009D6DC8CA2C0][000009D6DCCE7800 50] IPadPro, [000009D6DC8C7000][000009D6DCCE5000 50] iPadAir3, [000009D6DC8C9300][000009D6DCCEA000 50] iPadAir4, [000009D6DC8CB600][000009D6DCCEC800 50] iPadMini4, [000009D6DC8C7380][000009D6BE725000 50] iPadMini5, [000009D6DC8C6AC0][000009D6DCCF0000 50] iPadMini6, [000009D6DC8CE380][000009D6DCCFA000 50] iPhone6S, [000009D6DC8CE700][000009D6DCCF7800 50] iPhone7, [000009D6DC8CEA80][000009D6DCCF5000 50] iPodTouch7, [000009D6DC8CC5C0][000009D6DCCFC800 50] iPhone6SPlus, [000009D6DC8CDE40][000009D6DCCE2800 50] iPhone7Plus, [000009D6DC8C63C0][000009D6DCD10000 50] iPhoneSE, [000009D6DC8CA800][000009D6DCD15000 50] iPhone8, [000009D6DC8CE8C0][000009D6DCD17800 50] iPhone8Plus, [000009D6DC8CBB40][000009D6DCD1A000 50] iPhoneX, [000009D6DC8C8A40][000009D6DCD1C800 50] iPhoneXS, [000009D6DC8C8DC0][000009D6DCCF2800 50] iPhoneXSMax, [000009D6DC8CB0C0][000009D6DCCC0000 50] iPhoneXR, [000009D6DC8C6E40][000009D6DCCC5000 50] iPhone11, [000009D6DC8C7E00][000009D6DCCC7800 50] iPhone11Pro, [000009D6DC8C8F80][000009D6DCCCA000 50] iPhone11ProMax, [000009D6DC8C9A00][000009D6DCCCC800 50] iPhoneSE2, [000009D6DC8CE1C0][000009D6DCD12800 50] iPhone12Mini, [000009D6DC8C6580][000009D6DCD20000 50] iPhone12, [000009D6DC8CDAC0][000009D6DCD25000 50] iPhone12Pro, [000009D6DC8CA100][000009D6DCD27800 50] iPhone12ProMax, [000009D6DC8CE540][000009D6DCD2A000 50] iPhone13Mini, [000009D6DC8CC080][000009D6DCD2C800 50] iPhone13, [000009D6DC8C7540][000009D6DCCC2800 50] iPhone13Pro, [000009D6DC8CDC80][000009D6DCD30000 50] iPhone13ProMax, [000009D6DC8C8180][000009D6DCD35000 50] iPadPro105, [000009D6DC8CBEC0][000009D6DCD37800 50] iPadPro129, [000009D6DC8C7700][000009D6DCD3A000 50] iPadPro97, [000009D6DC8CD900][000009D6DCD3C800 50] iPadPro2_129, [000009D6DC8C6040][000009D6DCD22800 50] iPad5, [000009D6DC8CC400][000009D6DCD50000 50] iPad6, [000009D6DC8C9BC0][000009D6DCD55000 50] iPad7, [000009D6DC8CD580][000009D6DCD57800 50] iPad8, [000009D6DC8C7C40][000009D6DCD5A000 50] iPad9, [000009D6DC8CAD40][000009D6DCD5C800 50] iPadPro11, [000009D6DC8CE000][000009D6DCD32800 50] iPadPro2_11, [000009D6DC8C8C00][000009D6DCD60000 50] iPadPro3_11, [000009D6DC8C8340][000009D6DCD65000 50] iPadPro3_129, [000009D6DC8C8500][000009D6DCD67800 50] iPadPro4_129, [000009D6DC8C9140][000009D6DCD6A000 50] iPadPro5_129, [000009D6DC8CD200][000009D6DCD6C800 50] AppleTV, [000009D6DC8CD040][000009D6DCD52800 50] AppleTV4K, [000009D6DC8CCE80][000009D6DCD70000 50] TVOS, [000009D6DCDC0700][000009D6DCD77800 50] Mac, [000009D6DCDC0A80][000009D6DCD75000 50] MacEditor, [000009D6DCDC2A00][000009D6DCD7A000 50] MacClient, [000009D6DCDC2840][000009D6DCD7C800 50] MacServer, [000009D6DCDC4EC0][000009D6DCDA0000 50] Linux, [000009D6DCDC5240][000009D6DCDA2800 50] LinuxEditor, [000009D6DCDC4440][000009D6DCDA7800 50] LinuxArm64Editor, [000009D6DCDC0000][000009D6DCDAA000 50] LinuxArm64, [000009D6DCDC0FC0][000009D6DCDAC800 50] LinuxClient, [000009D6DCDC0E00][000009D6DCD62800 50] LinuxArm64Client, [000009D6DCDC0380][000009D6DCDA5000 50] LinuxServer, [000009D6DCDC16C0][000009D6DCDB0000 50] LinuxArm64Server, [000009D6DCDC4B40][000009D6DCDB5000 50] Android, [000009D6DCDC2BC0][000009D6DCDB7800 50] Android_Preview_OpenGL, [000009D6DCDC3800][000009D6DCDBA000 50] Android_Preview_Vulkan, [000009D6DCDC1DC0][000009D6DCDBC800 50] Android_Low, [000009D6DCDC40C0][000009D6DCD72800 50] Android_Mid, [000009D6DCDC5CC0][000009D6DCD80000 50] Android_High, [000009D6DCDC3480][000009D6DCD85000 50] Android_Default, [000009D6DCDC2140][000009D6DCD87800 50] Android_Adreno4xx, [000009D6DCDC5400][000009D6DCD8A000 50] Android_Adreno5xx_Low, [000009D6DCDC32C0][000009D6DCD8C800 50] Android_Adreno5xx, [000009D6DCDC5940][000009D6DCDB2800 50] Android_Adreno6xx, [000009D6DCDC2300][000009D6DCD90000 50] Android_Adreno6xx_Vulkan, [000009D6DCDC5B00][000009D6DCD95000 50] Android_Adreno7xx, [000009D6DCDC3D40][000009D6DCD97800 50] Android_Adreno7xx_Vulkan, [000009D6DCDC2680][000009D6DCD9A000 50] Android_Mali_T6xx, [000009D6DCDC1A40][000009D6DCD9C800 50] Android_Mali_T7xx, [000009D6DCDC2F40][000009D6DCD82800 50] Android_Mali_T8xx, [000009D6DCDC08C0][000009D6DCDD0000 50] Android_Mali_G71, [000009D6DCDC1880][000009D6DCDD5000 50] Android_Mali_G72, [000009D6DCDC0540][000009D6DCDD7800 50] Android_Mali_G72_Vulkan, [000009D6DCDC5E80][000009D6DCDDA000 50] Android_Mali_G76, [000009D6DCDC1340][000009D6DCDDC800 50] Android_Mali_G76_Vulkan, [000009D6DCDC4980][000009D6DCD92800 50] Android_Mali_G77, [000009D6DCDC6040][000009D6DCDE0000 50] Android_Mali_G77_Vulkan, [000009D6DCDC47C0][000009D6DCDE5000 50] Android_Mali_G78, [000009D6DCDC2D80][000009D6DCDE7800 50] Android_Mali_G78_Vulkan, [000009D6DCDC6200][000009D6DCDEA000 50] Android_Mali_G710, [000009D6DCDC3640][000009D6DCDEC800 50] Android_Mali_G710_Vulkan, [000009D6DCDC1C00][000009D6DCDD2800 50] Android_Xclipse_920, [000009D6DCDC6E40][000009D6DCDF0000 50] Android_Xclipse_920_Vulkan, [000009D6DCDC5780][000009D6DCDF5000 50] Android_Vulkan_SM5, [000009D6DCDC6900][000009D6DCDF7800 50] Android_PowerVR_G6xxx, [000009D6DCDC7000][000009D6DCDFA000 50] Android_PowerVR_GT7xxx, [000009D6DCDC63C0][000009D6DCDFC800 50] Android_PowerVR_GE8xxx, [000009D6DCDC1500][000009D6DCDE2800 50] Android_PowerVR_GM9xxx, [000009D6DCDC39C0][000009D6DCE00000 50] Android_PowerVR_GM9xxx_Vulkan, [000009D6DCDC6C80][000009D6DCE05000 50] Android_TegraK1, [000009D6DCDC7E00][000009D6DCE07800 50] Android_Unknown_Vulkan, [000009D6DCDC55C0][000009D6DCE0A000 50] Oculus_Quest, [000009D6DCDC78C0][000009D6DCE0C800 50] Oculus_Quest2, [000009D6DCDC7FC0][000009D6DCDF2800 50] HoloLens, 
+[2022.10.24-12.33.00:444][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.24-12.33.00:465][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.24-12.33.00:647][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.24-12.33.00:647][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.24-12.33.00:647][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.24-12.33.00:647][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.24-12.33.00:647][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.24-12.33.00:664][  0]LogNetVersion: MyLandScape 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 593633263)
+[2022.10.24-12.33.00:799][  0]LogSlate: Border
+[2022.10.24-12.33.00:799][  0]LogSlate: BreadcrumbButton
+[2022.10.24-12.33.00:799][  0]LogSlate: Default
+[2022.10.24-12.33.00:799][  0]LogSlate: Icons.Save
+[2022.10.24-12.33.00:799][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.24-12.33.00:799][  0]LogSlate: ListView
+[2022.10.24-12.33.00:799][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.24-12.33.00:799][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.24-12.33.00:799][  0]LogSlate: TableView.DarkRow
+[2022.10.24-12.33.00:799][  0]LogSlate: TableView.Row
+[2022.10.24-12.33.00:799][  0]LogSlate: TreeView
+[2022.10.24-12.33.00:976][  0]SourceControl: ソースコントロールは無効です
+[2022.10.24-12.33.01:004][  0]SourceControl: ソースコントロールは無効です
+[2022.10.24-12.33.01:004][  0]SourceControl: ソースコントロールは無効です
+[2022.10.24-12.33.01:115][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.24-12.33.01:115][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.10.24-12.33.01:115][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.24-12.33.01:480][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 613B91F34A619F75BFEEC4BC2E4D39D5 | Instance: 1FCB84434DD5AF29044D3CAA8553A884 (DESKTOP-5222D8P-18996).
+[2022.10.24-12.33.01:522][  0]LogPython: Using Python 3.9.7
+[2022.10.24-12.33.02:307][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.24-12.33.02:336][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.24-12.33.02:434][  0]SourceControl: ソースコントロールは無効です
+[2022.10.24-12.33.02:441][  0]SourceControl: ソースコントロールは無効です
+[2022.10.24-12.33.02:448][  0]SourceControl: ソースコントロールは無効です
+[2022.10.24-12.33.02:459][  0]LogUProjectInfo: Found projects:
+[2022.10.24-12.33.02:463][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.24-12.33.02:464][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.24-12.33.02:464][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.24-12.33.02:740][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.24-12.33.02:766][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.24-12.33.02:785][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.24-12.33.02:785][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.24-12.33.02:859][  0]LogCollectionManager: Loaded 0 collections in 0.000724 seconds
+[2022.10.24-12.33.02:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Saved/Collections/' took 0.00s
+[2022.10.24-12.33.02:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/Developers/aotak/Collections/' took 0.00s
+[2022.10.24-12.33.02:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/Collections/' took 0.00s
+[2022.10.24-12.33.03:171][  0]LogEngine: Initializing Engine...
+[2022.10.24-12.33.03:182][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.24-12.33.03:183][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.24-12.33.03:385][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.24-12.33.03:385][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-12.33.03:394][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-12.33.03:416][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.24-12.33.03:416][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.24-12.33.03:433][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.24-12.33.03:434][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-12.33.03:434][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-12.33.03:434][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-12.33.03:434][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-12.33.03:434][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-12.33.03:434][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.24-12.33.03:434][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-12.33.03:434][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-12.33.03:439][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.24-12.33.03:480][  0]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- USBFC1-A)
+[2022.10.24-12.33.03:480][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-12.33.03:483][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-12.33.03:483][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-12.33.03:483][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.24-12.33.03:483][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.24-12.33.03:484][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.24-12.33.03:484][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.24-12.33.03:484][  0]LogInit: FAudioDevice initialized.
+[2022.10.24-12.33.03:484][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.24-12.33.03:484][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.24-12.33.03:484][  0]LogInit: Texture streaming: Enabled
+[2022.10.24-12.33.03:511][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.24-12.33.03:518][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.24-12.33.03:536][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.24-12.33.03:543][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.24-12.33.03:543][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.24-12.33.04:919][  0]LogLiveCoding: Display: First instance in process group "UE_MyLandScape_0x1b0d81bd", spawning console
+[2022.10.24-12.33.04:919][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.24-12.33.04:919][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.24-12.33.04:921][  0]LogInit: Transaction tracking system initialized
+[2022.10.24-12.33.04:981][  0]BlueprintLog: New page: エディタの読み込み
+[2022.10.24-12.33.05:148][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2022.10.24-12.33.05:189][  0]TimingProfiler: Initialize
+[2022.10.24-12.33.05:189][  0]TimingProfiler: OnSessionChanged
+[2022.10.24-12.33.05:189][  0]LoadingProfiler: Initialize
+[2022.10.24-12.33.05:189][  0]LoadingProfiler: OnSessionChanged
+[2022.10.24-12.33.05:189][  0]NetworkingProfiler: Initialize
+[2022.10.24-12.33.05:189][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.24-12.33.05:189][  0]MemoryProfiler: Initialize
+[2022.10.24-12.33.05:189][  0]MemoryProfiler: OnSessionChanged
+[2022.10.24-12.33.05:350][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.24-12.33.05:350][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.24-12.33.05:351][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.24-12.33.05:718][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/' took 0.00s
+[2022.10.24-12.33.05:718][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.24-12.33.05:788][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.24-12.33.05:791][  0]SourceControl: ソースコントロールは無効です
+[2022.10.24-12.33.05:791][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.518
+[2022.10.24-12.33.05:799][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.10.24-12.33.05:802][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.10.24-12.33.05:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.10.24-12.33.05:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.10.24-12.33.05:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.10.24-12.33.05:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.10.24-12.33.05:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.10.24-12.33.05:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.10.24-12.33.05:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.10.24-12.33.05:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.10.24-12.33.05:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.10.24-12.33.05:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.10.24-12.33.05:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.10.24-12.33.05:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.10.24-12.33.05:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.10.24-12.33.05:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.10.24-12.33.06:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.10.24-12.33.06:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.10.24-12.33.06:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.10.24-12.33.06:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.10.24-12.33.06:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.10.24-12.33.06:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.10.24-12.33.06:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.10.24-12.33.06:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.10.24-12.33.06:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.10.24-12.33.06:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.10.24-12.33.06:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Maps/StarterMap.umap"
+[2022.10.24-12.33.06:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.10.24-12.33.06:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.10.24-12.33.06:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.10.24-12.33.06:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.10.24-12.33.06:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.10.24-12.33.06:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.10.24-12.33.06:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.10.24-12.33.06:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.10.24-12.33.06:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.10.24-12.33.06:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.10.24-12.33.06:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.10.24-12.33.06:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.10.24-12.33.06:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.10.24-12.33.06:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.10.24-12.33.06:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.10.24-12.33.06:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.10.24-12.33.06:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.10.24-12.33.06:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.10.24-12.33.06:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.10.24-12.33.06:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.10.24-12.33.06:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.10.24-12.33.06:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.10.24-12.33.06:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.10.24-12.33.06:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.10.24-12.33.06:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.10.24-12.33.06:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.10.24-12.33.06:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.10.24-12.33.06:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.10.24-12.33.06:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.10.24-12.33.06:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.10.24-12.33.06:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.10.24-12.33.06:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.10.24-12.33.06:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.10.24-12.33.06:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.10.24-12.33.06:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.10.24-12.33.06:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.10.24-12.33.06:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.10.24-12.33.06:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.10.24-12.33.06:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.10.24-12.33.06:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.10.24-12.33.06:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.10.24-12.33.06:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.10.24-12.33.06:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.10.24-12.33.06:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.10.24-12.33.06:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.10.24-12.33.06:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.10.24-12.33.06:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.10.24-12.33.06:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.10.24-12.33.06:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.10.24-12.33.06:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.10.24-12.33.06:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.10.24-12.33.06:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.10.24-12.33.06:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.10.24-12.33.06:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.10.24-12.33.06:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.10.24-12.33.06:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.10.24-12.33.06:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.10.24-12.33.06:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.10.24-12.33.06:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.10.24-12.33.06:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.10.24-12.33.06:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.10.24-12.33.06:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.10.24-12.33.06:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.10.24-12.33.06:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.10.24-12.33.06:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.10.24-12.33.06:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.10.24-12.33.06:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.10.24-12.33.06:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.10.24-12.33.06:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.10.24-12.33.06:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.10.24-12.33.06:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.10.24-12.33.06:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.10.24-12.33.06:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.10.24-12.33.06:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.10.24-12.33.06:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Door.uasset"
+[2022.10.24-12.33.06:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.10.24-12.33.06:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.10.24-12.33.06:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.10.24-12.33.06:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.10.24-12.33.06:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.10.24-12.33.06:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.10.24-12.33.06:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.10.24-12.33.06:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.10.24-12.33.06:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.10.24-12.33.06:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.10.24-12.33.06:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.10.24-12.33.06:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.10.24-12.33.06:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.10.24-12.33.06:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.10.24-12.33.06:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.10.24-12.33.06:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.10.24-12.33.06:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.10.24-12.33.06:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.10.24-12.33.06:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.10.24-12.33.06:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Fire01.uasset"
+[2022.10.24-12.33.06:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.10.24-12.33.06:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.10.24-12.33.06:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.10.24-12.33.06:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Light01.uasset"
+[2022.10.24-12.33.06:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.10.24-12.33.06:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Light02.uasset"
+[2022.10.24-12.33.06:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.10.24-12.33.06:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.10.24-12.33.06:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.10.24-12.33.06:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.10.24-12.33.06:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.10.24-12.33.06:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.10.24-12.33.06:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.10.24-12.33.06:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.10.24-12.33.06:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.10.24-12.33.06:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Steam01.uasset"
+[2022.10.24-12.33.06:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.10.24-12.33.06:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.10.24-12.33.06:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.10.24-12.33.06:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.10.24-12.33.06:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.10.24-12.33.06:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.10.24-12.33.06:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.10.24-12.33.06:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.10.24-12.33.06:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.10.24-12.33.06:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.10.24-12.33.06:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.10.24-12.33.06:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.10.24-12.33.06:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.10.24-12.33.06:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.10.24-12.33.06:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.10.24-12.33.06:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.10.24-12.33.06:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.10.24-12.33.06:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.10.24-12.33.06:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.10.24-12.33.06:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.10.24-12.33.06:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.10.24-12.33.06:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.10.24-12.33.06:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.10.24-12.33.06:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.10.24-12.33.06:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.10.24-12.33.07:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.10.24-12.33.07:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.10.24-12.33.07:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.10.24-12.33.07:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.10.24-12.33.07:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.10.24-12.33.07:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.10.24-12.33.07:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.10.24-12.33.07:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.10.24-12.33.07:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.10.24-12.33.07:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.10.24-12.33.07:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.10.24-12.33.07:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.10.24-12.33.07:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.10.24-12.33.07:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.10.24-12.33.07:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.10.24-12.33.07:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.10.24-12.33.07:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.10.24-12.33.07:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.10.24-12.33.07:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.10.24-12.33.07:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.10.24-12.33.07:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.10.24-12.33.07:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.10.24-12.33.07:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.10.24-12.33.07:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.10.24-12.33.07:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.10.24-12.33.07:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.10.24-12.33.07:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.10.24-12.33.07:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.10.24-12.33.07:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.10.24-12.33.07:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.10.24-12.33.07:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.10.24-12.33.07:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.10.24-12.33.07:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.10.24-12.33.07:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.10.24-12.33.07:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.10.24-12.33.07:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.10.24-12.33.07:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.10.24-12.33.07:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.10.24-12.33.07:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.10.24-12.33.07:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.10.24-12.33.07:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.10.24-12.33.07:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.10.24-12.33.07:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.10.24-12.33.07:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.10.24-12.33.07:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.10.24-12.33.07:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.10.24-12.33.07:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.10.24-12.33.07:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.10.24-12.33.07:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.10.24-12.33.08:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.10.24-12.33.08:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.10.24-12.33.08:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.10.24-12.33.08:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.10.24-12.33.08:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.10.24-12.33.08:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.10.24-12.33.08:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.10.24-12.33.08:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.10.24-12.33.08:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.10.24-12.33.08:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.10.24-12.33.08:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.10.24-12.33.08:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.10.24-12.33.08:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.10.24-12.33.08:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.10.24-12.33.08:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.10.24-12.33.08:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.10.24-12.33.08:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.10.24-12.33.08:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.10.24-12.33.08:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.10.24-12.33.08:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.10.24-12.33.08:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.10.24-12.33.08:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.10.24-12.33.08:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.10.24-12.33.08:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.10.24-12.33.08:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.10.24-12.33.08:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.10.24-12.33.08:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.10.24-12.33.08:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.10.24-12.33.08:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.10.24-12.33.08:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.10.24-12.33.08:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.10.24-12.33.08:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.10.24-12.33.08:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.10.24-12.33.08:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.10.24-12.33.08:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.10.24-12.33.08:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.10.24-12.33.08:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.10.24-12.33.08:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.10.24-12.33.08:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.10.24-12.33.08:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.10.24-12.33.08:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.10.24-12.33.08:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.10.24-12.33.08:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.10.24-12.33.08:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.10.24-12.33.08:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.10.24-12.33.08:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.10.24-12.33.08:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.10.24-12.33.08:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.10.24-12.33.08:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.10.24-12.33.08:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.10.24-12.33.08:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.10.24-12.33.08:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.10.24-12.33.08:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.10.24-12.33.08:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.10.24-12.33.08:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.10.24-12.33.08:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.10.24-12.33.08:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.10.24-12.33.08:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.10.24-12.33.08:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.10.24-12.33.08:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.10.24-12.33.08:573][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.10.24-12.33.08:595][  0]LogStaticMesh: Display: スタティックメッシュ Floor_400x400 をビルド中...
+[2022.10.24-12.33.08:595][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.10.24-12.33.08:794][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.039630 seconds
+[2022.10.24-12.33.08:798][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Architecture/Floor_400x400
+[2022.10.24-12.33.08:799][  0]LogSavePackage: Moving 'C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Saved/Floor_400x40011485586468937D4EC936391DAA8F050.tmp' to 'C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.10.24-12.33.08:800][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.10.24-12.33.08:801][  0]Cmd: MAP LOAD FILE="C:/Users/aotak/OneDrive/デスクトップ/UnrealEngine_OpenMap/MyLandScape/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.24-12.33.08:801][  0]LightingResults: New page: ライティングのビルド
+[2022.10.24-12.33.08:807][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-12.33.08:807][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-12.33.08:807][  0]MapCheck: New page: マップをチェック
+[2022.10.24-12.33.08:807][  0]LightingResults: New page: <何も選択されていません>
+[2022.10.24-12.33.08:811][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.24-12.33.08:813][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.10.24-12.33.08:921][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.10.24-12.33.08:927][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.10.24-12.33.08:934][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.10.24-12.33.08:951][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.10.24-12.33.08:951][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-12.33.08:951][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-12.33.08:951][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.10.24-12.33.08:955][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.24-12.33.08:961][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.10.24-12.33.08:961][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.24-12.33.08:961][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.11ミリ秒かかりました。
+[2022.10.24-12.33.08:961][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.160
+[2022.10.24-12.33.08:969][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.697
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: ================================================
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.24-12.33.08:969][  0]LogShaderCompilers: Display: ================================================
+[2022.10.24-12.33.09:024][  0]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2022.10.24-12.33.09:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-12.33.09:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-12.33.09:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-12.33.09:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-12.33.09:148][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:148][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:149][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:149][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:149][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:149][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:150][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:150][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:151][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:151][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:151][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:151][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:152][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:152][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:152][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:152][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:153][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:153][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:153][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.24-12.33.09:153][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-12.33.09:153][  0]LogFeaturePack: Error: Error in Feature pack D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.24-12.33.09:270][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.24-12.33.09:271][  0]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2022.10.24-12.33.09:272][  0]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2022.10.24-12.33.09:272][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.24-12.33.09:273][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.24-12.33.09:274][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.24-12.33.09:274][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2022.10.24-12.33.09:274][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2022.10.24-12.33.09:275][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2022.10.24-12.33.09:291][  0]LogViewport: Scene viewport resized to 2339x1788, mode Windowed.
+[2022.10.24-12.33.09:717][  0]LogStall: Startup...
+[2022.10.24-12.33.09:718][  0]LogStall: Startup complete.
+[2022.10.24-12.33.09:735][  0]LogLoad: (Engine Initialization) Total time: 12.46 seconds
+[2022.10.24-12.33.09:735][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.24-12.33.09:798][  0]AssetCheck: New page: アセット保存：Floor_400x400
+[2022.10.24-12.33.09:803][  0]LogContentValidation: Display: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 を検証しています
+[2022.10.24-12.33.09:824][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.24-12.33.09:891][  0]LogAutomationController: Ignoring very large delta of 17281336.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.24-12.33.09:911][  1]LogAssetRegistry: Asset discovery search completed in 9.8773 seconds
+[2022.10.24-12.33.09:916][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.24-12.33.51:266][451]Cmd: DELETE
+[2022.10.24-12.33.51:266][451]Cmd: ACTOR DELETE
+[2022.10.24-12.33.51:272][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-12.33.51:278][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.24-12.33.51:279][451]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.10.24-12.33.52:240][545]Cmd: DELETE
+[2022.10.24-12.33.52:240][545]Cmd: ACTOR DELETE
+[2022.10.24-12.33.52:247][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-12.33.52:252][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-12.33.52:254][545]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.10.24-12.33.52:802][594]Cmd: DELETE
+[2022.10.24-12.33.52:802][594]Cmd: ACTOR DELETE
+[2022.10.24-12.33.52:803][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-12.33.52:809][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.24-12.33.52:810][594]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.10.24-12.33.54:290][741]Cmd: DELETE
+[2022.10.24-12.33.54:290][741]Cmd: ACTOR DELETE
+[2022.10.24-12.33.54:291][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-12.33.54:297][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-12.33.54:298][741]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.10.24-12.33.56:394][970]Cmd: DELETE
+[2022.10.24-12.33.56:394][970]Cmd: ACTOR DELETE
+[2022.10.24-12.33.56:396][970]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-12.33.56:400][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-12.33.56:401][970]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.10.24-12.33.56:790][  4]Cmd: DELETE
+[2022.10.24-12.33.56:790][  4]Cmd: ACTOR DELETE
+[2022.10.24-12.33.56:792][  4]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-12.33.56:797][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-12.33.56:798][  4]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.10.24-12.34.58:989][981]LogDerivedDataCache: C:/Users/aotak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.035 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.24-12.35.17:732][207]LogTexture: Display: テクスチャのビルド：/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (推定必須メモリ：6.66666 MB), エンコード速度：Fast
+[2022.10.24-12.35.17:739][207]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 47903F755061771CE2B825E5499DB603928B409C), compiling. Is special engine material.
